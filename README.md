@@ -3,13 +3,20 @@ BeautyOfBeaches — eProject Submission
 Project
 BeautyOfBeaches: a Single-Page, responsive website cataloguing famous beaches by zone (North, South, East, West), built with HTML5, CSS3 and JavaScript.
 Files in this submission
+
 •	beautyofbeach.html — page structure and all three modal dialogs
+
 •	beautyofbeach.css — all styling, layout and animation
+
 •	beautyofbeach.js — all data and behaviour
+
 •	logo.svg, favicon-32.png, favicon-180.png — branding assets
+
 •	/videos — local video files referenced by the Gallery (see Assumptions below)
+
 •	BeautyOfBeaches_eProject_Report.docx — full project report (synopsis, analysis, design, DFDs, flowcharts, screenshots, source code walkthrough, user guide, developer's guide)
-•	README.docx — this file
+
+
 How to run
 No installation or build step is required. Open beautyofbeach.html directly in any modern browser (Chrome, Edge, Firefox, Safari), or deploy the folder as-is to any static web host.
 Assumptions

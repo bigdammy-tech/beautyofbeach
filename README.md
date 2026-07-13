@@ -1,6 +1,8 @@
 
 BeautyOfBeaches — eProject Submission
+
 Project
+
 BeautyOfBeaches: a Single-Page, responsive website cataloguing famous beaches by zone (North, South, East, West), built with HTML5, CSS3 and JavaScript.
 Files in this submission
 
